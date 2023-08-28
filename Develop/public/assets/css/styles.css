@@ -1,4 +1,11 @@
 html,
+.custom-container {
+  margin-top: 80px;
+  text-align: center;
+  padding: 5rem;
+  margin-bottom: 4rem;
+  background-color: #f8f9fa;
+}
 body {
   height: 100%;
   margin: 0;
